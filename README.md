@@ -1,8 +1,12 @@
 # F-UJI (FAIRsFAIR Research Data Object Assessment Service)
 
-This repository contains the extension of F-UJI for FAIR4RS metrics, carried out for milestone M5.6, which comes from Task 5.2 (FAIR metrics for research software) on "Practical tests for automated FAIR software assessment in a disciplinary context" and is part of Work Package 5 on "Metrics, Certification and Guidelines" within the FAIR-IMPACT project. The base repository is also available on [GitHub](https://github.com/pangaea-data-publisher/fuji). Any contributions should be made to their repository. The milestone report describing this development will be published shortly (https://doi.org/10.5281/zenodo.10890043). Evaluation scripts and results are included in `examples/`.
+This repository contains the extension of F-UJI for FAIR4RS metrics, carried out for milestone M5.6, which comes from Task 5.2 (FAIR metrics for research software) on "Practical tests for automated FAIR software assessment in a disciplinary context" and is part of Work Package 5 on "Metrics, Certification and Guidelines" within the FAIR-IMPACT project. The base repository is also available on [GitHub](https://github.com/pangaea-data-publisher/fuji). Any contributions should be made to their repository. The milestone report describing this development will be published shortly. Evaluation scripts and results are included in `examples/`.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10890043.svg)](https://doi.org/10.5281/zenodo.10890043)
 
 ---
+
+## Orginal README for F-UJI
 
 Developers: [Robert Huber](mailto:rhuber@marum.de), [Anusuriya Devaraju](mailto:anusuriya.devaraju@googlemail.com)
 
