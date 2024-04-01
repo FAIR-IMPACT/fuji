@@ -15,7 +15,7 @@ The evaluation requires a local instance of f-uji, as described in the [README](
 
 Once it is running, run the [assessment notebook](./assessment.ipynb).
 This will produce a set of JSON files with the responses received for each repository in `./results`.
-Please note that due to this folder is not tracked by Git.
+Please note that this folder is not tracked by Git.
 
 Next, run the [analysis notebook](./analysis.ipynb).
 This will overwrite the CSV files and produce plots.
